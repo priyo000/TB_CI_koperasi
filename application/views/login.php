@@ -9,6 +9,8 @@
 </head>
 <body>
 <form>
+<div class="container">
+    <div class="col-sm-3">
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
@@ -23,6 +25,8 @@
     <label class="form-check-label" for="exampleCheck1">Check me out</label>
   </div>
   <button type="submit" class="btn btn-danger">Submit</button>
+  </div>
+</div>
 </form>
 </body>
 </html>
